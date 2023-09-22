@@ -12,3 +12,4 @@
   7. Run ```node .``` to start the bot
   ## License  
   All code is licensed under the [MIT license](https://choosealicense.com/licenses/mit/) .
+> All rights reserved © 2023 MBA {//}
